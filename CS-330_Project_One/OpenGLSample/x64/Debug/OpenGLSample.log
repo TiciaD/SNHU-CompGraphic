@@ -1,0 +1,7 @@
+﻿  assignment_2_3.cpp
+  shader.cpp
+  Source.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\dunnt\Documents\Projects\School\CS-330\OpenGLSample_baseline\x64\Debug\OpenGLSample.exe
